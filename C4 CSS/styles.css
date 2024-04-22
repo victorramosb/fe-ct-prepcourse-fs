@@ -1,0 +1,54 @@
+header {
+    margin: 1%;
+}
+
+body {
+    margin: 1%;
+    background-color: teal;
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(209, 209, 119);
+}
+
+h2 {
+    color: rgb(209, 209, 119);
+    font-size: xx-large;
+}
+
+h3 {
+    color: rgb(209, 209, 119);
+    font-size: xx-large;
+}
+
+#maindiv {
+    /* background-color: red; */
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.columna {
+    /* background-color: yellow; */
+    margin-left: 2%;
+    margin-right: 1%;
+    padding-right: 1%;
+}
+
+#col1 {
+    border-right: 1px solid black;
+}
+
+/* .divparrafo {
+    background-color: bisque;
+} */
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.tag {
+    margin-left: 1%;
+}
